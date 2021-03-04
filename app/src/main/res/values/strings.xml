@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Security</string>
+    <string name="live_preview">Live Preview</string>
+    <string name="save_image">Saved Image</string>
+    <string name="saved_video">Saved Video</string>
+    <string name="setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rotation">Rotation</string>
+    <string name="colon">:</string>
+    <string name="regulation">Resolution</string>
+    <string name="brightness">Brightness</string>
+    <string name="submit">submit</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949758439370",
+    "firebase_url": "https://smart-security-6f97a.firebaseio.com",
+    "project_id": "smart-security-6f97a",
+    "storage_bucket": "smart-security-6f97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949758439370:android:76ed9b91f86168a14ba933",
+        "android_client_info": {
+          "package_name": "com.getrent.smartsecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949758439370-evqddfvjj7an3n5irh9u17finb4d8htc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.getrent.smartsecurity",
+            "certificate_hash": "248a1065a19a60deba9ed3627b0b6b32282e2bb0"
+          }
+        },
+        {
+          "client_id": "949758439370-b3paici95km7gru34gesq532e7tdeqn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlZkoQtRF2KGM_wDbbVB-hDgoj6H2ikb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949758439370-b3paici95km7gru34gesq532e7tdeqn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
